@@ -1,0 +1,1 @@
+module.exports = require("@gaurav/configs/tailwind/tailwind.config");
